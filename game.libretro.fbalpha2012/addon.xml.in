@@ -14,8 +14,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Arcade (FB Alpha 2012) v0.2.97.29</summary>
-		<description>Final Burn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16. The 2012 version runs better on older hardware.
+		<summary lang="en_GB">Arcade (FB Alpha 2012) v0.2.97.29</summary>
+		<description lang="en_GB">Final Burn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16. The 2012 version runs better on older hardware.
 
 Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)
 
