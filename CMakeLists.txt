@@ -4,7 +4,7 @@ project(game.libretro.fbalpha2012)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-fbalpha2012 REQUIRED)
+find_library(FBALPHA2012_LIB NAMES fbalpha2012_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(FBALPHA2012_CUSTOM_BINARY ${FBALPHA2012_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
