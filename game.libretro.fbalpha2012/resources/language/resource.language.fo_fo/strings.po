@@ -25,5 +25,5 @@ msgid "Final Burn Alpha is an emulator of arcade games, including Capcom CPS-1 a
 msgstr ""
 
 msgctxt "Addon Disclaimer"
-msgid "The authors of FB Alpha don&#39;t guarantee its fitness for any purpose, implied or otherwise, and do not accept responsibility for any damages whatsoever that might occur when using FB Alpha. All games emulated by FB Alpha, including any images and sounds therein, are copyrighted by their respective copyright holders. Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)"
+msgid "The authors of FB Alpha don't guarantee its fitness for any purpose, implied or otherwise, and do not accept responsibility for any damages whatsoever that might occur when using FB Alpha. All games emulated by FB Alpha, including any images and sounds therein, are copyrighted by their respective copyright holders. Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)"
 msgstr ""
