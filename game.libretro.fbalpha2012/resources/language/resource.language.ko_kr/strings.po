@@ -26,5 +26,5 @@ msgid "Final Burn Alpha is an emulator of arcade games, including Capcom CPS-1 a
 msgstr "Final Burn Alpha는 Capcom CPS-1 및 CPS-2, SNK Neo-Geo, Toaplan, Cave 및 Sega System 16을 포함한 아케이드 게임의 에뮬레이터입니다.[CR][CR]2012 버전은 이전 하드웨어에서 더 잘 실행됩니다."
 
 msgctxt "Addon Disclaimer"
-msgid "The authors of FB Alpha don't guarantee its fitness for any purpose, implied or otherwise, and do not accept responsibility for any damages whatsoever that might occur when using FB Alpha. All games emulated by FB Alpha, including any images and sounds therein, are copyrighted by their respective copyright holders. Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)"
+msgid "The authors of FB Alpha do not guarantee its fitness for any purpose, implied or otherwise, and do not accept responsibility for any damages whatsoever that might occur when using FB Alpha. All games emulated by FB Alpha, including any images and sounds therein, are copyrighted by their respective copyright holders. Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)"
 msgstr ""
