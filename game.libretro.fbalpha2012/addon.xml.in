@@ -22,9 +22,11 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Arcade (FB Alpha 2012) v0.2.97.29</summary>
+		<description lang="da_DK">Final Burn Alpha er en emulator af arkadespil, inklusive Capcom CPS-1 og CPS-2, SNK Neo-Geo, Toaplan, Cave og Sega System 16.[CR][CR]2012-versionen kører bedre på ældre hardware.</description>
 		<description lang="en_GB">Final Burn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16.[CR][CR]The 2012 version runs better on older hardware.</description>
 		<description lang="ko_KR">Final Burn Alpha는 Capcom CPS-1 및 CPS-2, SNK Neo-Geo, Toaplan, Cave 및 Sega System 16을 포함한 아케이드 게임의 에뮬레이터입니다.[CR][CR]2012 버전은 이전 하드웨어에서 더 잘 실행됩니다.</description>
 		<description lang="zh_CN">Final Burn Alpha 是街机游戏的仿真器，包括 Capcom CPS-1 和 CPS-2、SNK Neo Geo、Toaplan、Cave 和 Sega System 16。[CR][CR]2012版在较旧的硬件上运行得更好。</description>
+		<disclaimer lang="da_DK">Udviklerne af FB Alpha garanterer ikke dets egnethed til noget formål, underforstået eller på anden måde, og påtager sig ikke ansvar for nogen som helst skade, der måtte opstå ved brug af FB Alpha. Alle spil emuleret af FB Alpha, inklusive billeder og lyde deri, er ophavsretligt beskyttet af deres respektive copyright-indehavere. Billedkreditering: TRIPLEKILLZ (triplekillz.deviantart.com)</disclaimer>
 		<disclaimer lang="en_GB">The authors of FB Alpha do not guarantee its fitness for any purpose, implied or otherwise, and do not accept responsibility for any damages whatsoever that might occur when using FB Alpha. All games emulated by FB Alpha, including any images and sounds therein, are copyrighted by their respective copyright holders. Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)</disclaimer>
 	</extension>
 </addon>
