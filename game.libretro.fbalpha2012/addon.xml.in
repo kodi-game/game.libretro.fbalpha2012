@@ -28,5 +28,6 @@
 		<description lang="zh_CN">Final Burn Alpha 是街机游戏的仿真器，包括 Capcom CPS-1 和 CPS-2、SNK Neo Geo、Toaplan、Cave 和 Sega System 16。[CR][CR]2012版在较旧的硬件上运行得更好。</description>
 		<disclaimer lang="da_DK">Udviklerne af FB Alpha garanterer ikke dets egnethed til noget formål, underforstået eller på anden måde, og påtager sig ikke ansvar for nogen som helst skade, der måtte opstå ved brug af FB Alpha. Alle spil emuleret af FB Alpha, inklusive billeder og lyde deri, er ophavsretligt beskyttet af deres respektive copyright-indehavere. Billedkreditering: TRIPLEKILLZ (triplekillz.deviantart.com)</disclaimer>
 		<disclaimer lang="en_GB">The authors of FB Alpha do not guarantee its fitness for any purpose, implied or otherwise, and do not accept responsibility for any damages whatsoever that might occur when using FB Alpha. All games emulated by FB Alpha, including any images and sounds therein, are copyrighted by their respective copyright holders. Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)</disclaimer>
+		<disclaimer lang="ko_KR">FB Alpha의 작성자는 묵시적이든 아니든 어떤 목적에 대한 적합성을 보장하지 않으며 FB Alpha를 사용할 때 발생할 수 있는 모든 손해에 대해 책임을 지지 않습니다. 이미지와 사운드를 포함하여 FB Alpha가 에뮬레이트한 모든 게임은 해당 저작권 소유자에게 저작권이 있습니다. 아이콘 크레딧: TRIPLEKILLZ(triplekillz.deviantart.com)</disclaimer>
 	</extension>
 </addon>
