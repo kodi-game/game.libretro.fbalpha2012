@@ -15,7 +15,7 @@ Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.fbalpha2012/resources/icon.png)
+![Arcade (FB Alpha 2012) icon](game.libretro.fbalpha2012/resources/icon.png)
 
 ### Fanart
 
