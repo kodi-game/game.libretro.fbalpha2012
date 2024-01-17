@@ -22,8 +22,8 @@ msgid "Arcade (FB Alpha 2012)"
 msgstr "Arcade (FB Alpha 2012)"
 
 msgctxt "Addon Description"
-msgid "Final Burn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16.[CR][CR]The 2012 version runs better on older hardware."
-msgstr "Final Burn Alpha è un emulatore di giochi arcade, tra cui Capcom CPS-1 e CPS-2, SNK Neo-Geo, Toaplan, Cave e Sega System 16.[CR][CR]La versione 2012 funziona meglio su hardware meno recente."
+msgid "FinalBurn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16.[CR][CR]The 2012 version runs better on older hardware."
+msgstr "FinalBurn Alpha è un emulatore di giochi arcade, tra cui Capcom CPS-1 e CPS-2, SNK Neo-Geo, Toaplan, Cave e Sega System 16.[CR][CR]La versione 2012 funziona meglio su hardware meno recente."
 
 msgctxt "Addon Disclaimer"
 msgid "The authors of FB Alpha do not guarantee its fitness for any purpose, implied or otherwise, and do not accept responsibility for any damages whatsoever that might occur when using FB Alpha. All games emulated by FB Alpha, including any images and sounds therein, are copyrighted by their respective copyright holders. Icon credit: TRIPLEKILLZ (triplekillz.deviantart.com)"
