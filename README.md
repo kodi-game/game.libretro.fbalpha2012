@@ -2,7 +2,7 @@
 
 ### Description
 
-Final Burn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16.
+FinalBurn Alpha is an emulator of arcade games, including Capcom CPS-1 and CPS-2, SNK Neo-Geo, Toaplan, Cave and Sega System 16.
 
 The 2012 version runs better on older hardware.
 
